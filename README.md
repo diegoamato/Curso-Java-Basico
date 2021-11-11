@@ -17,7 +17,7 @@ aprendidos como:
 - Vetores
 - Função
 
-Exercício de exemplo: Manipula Vetores (via tela criada em Swing)
+Exercício de exemplo: ManipulaVetor (via tela criada em Swing)
 
 Curso Ministrado por https://www.cursoemvideo.com/
 GitHub https://github.com/cursoemvideo
